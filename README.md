@@ -1,6 +1,6 @@
 # display-face-on-128x64-oled-with-arduino
 # Face Display Project
-
+![Description of Image](IMG_4050_1.jpg)
 This Arduino project uses an OLED display and a button to cycle through different face graphics. It is built using the Adafruit GFX and SSD1306 libraries.
 
 ## Description
